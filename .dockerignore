@@ -1,0 +1,10 @@
+__pycache__
+venv
+.env
+.git
+cookies.txt
+temp_audio
+uploads
+Mashup Services/cookies.txt
+Mashup Services/__pycache__/
+Mashup Services/uploads/
