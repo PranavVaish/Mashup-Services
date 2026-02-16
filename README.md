@@ -13,7 +13,7 @@ directly to the user.
 ## 🚀 Live Deployment
 
 -   **Web Service:**
-    https://huggingface.co/spaces/pranavvaish20/Mashup-Services\
+    https://huggingface.co/spaces/pranavvaish20/Mashup-Services
 -   **Author:** Pranav Vaish\
 -   **LinkedIn:** https://www.linkedin.com/in/pranavvaish20/
 
